@@ -1,0 +1,22 @@
+{
+   "type": "module",
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "expo-av": "~16.0.7",
+    "expo-file-system": "~19.0.17",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "openai": "^6.7.0"
+  }
+}
